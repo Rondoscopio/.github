@@ -1,0 +1,19 @@
+title: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use este espaço para perguntas sobre os projetos, quando Discussions estiver habilitado.
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: Pergunta
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto e o que já consultou
+    validations:
+      required: false

@@ -1,0 +1,25 @@
+title: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Proponha ideias ainda em discussão, sem assumir que serão implementadas.
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema ou oportunidade
+    validations:
+      required: true
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Ideia inicial
+    validations:
+      required: true
+  - type: textarea
+    id: alternativas
+    attributes:
+      label: Alternativas e dúvidas
+    validations:
+      required: false

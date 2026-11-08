@@ -1,0 +1,21 @@
+title: ""
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Espaço para discussões gerais sobre o projeto.
+        Não compartilhe informações pessoais ou denúncias sigilosas.
+  - type: textarea
+    id: assunto
+    attributes:
+      label: Assunto
+      description: Sobre o que você gostaria de conversar?
+    validations:
+      required: true
+  - type: textarea
+    id: referencias
+    attributes:
+      label: Contexto e referências
+    validations:
+      required: false
