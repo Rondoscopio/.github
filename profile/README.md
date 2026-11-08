@@ -1,3 +1,5 @@
+![Rondoscópio](assets/banner.webp)
+
 # Rondoscópio
 
 **Fiscalização do poder público, memória documental e educação cívica em Rondônia.**
