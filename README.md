@@ -18,7 +18,7 @@ O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do pod
 
 A [Constituição do Rondoscópio](https://github.com/Rondoscopio/constituicao) reúne minutas de princípios, governança, políticas editoriais, métodos e proteção de fontes. Esses textos estão em elaboração e não devem ser apresentados como normas aprovadas ou mecanismos já implementados.
 
-O [Amnésia](https://github.com/Rondoscopio/amnesia) é proposto para coletar, catalogar e preservar registros de interesse público. O [Córtex](https://github.com/Rondoscopio/cortex) é proposto para analisar evidências, cruzar informações e apontar padrões e possíveis inconsistências. Ambos estão em planejamento.
+A [Amnésia](https://github.com/Rondoscopio/amnesia) é proposto para coletar, catalogar e preservar registros de interesse público. O [Córtex](https://github.com/Rondoscopio/cortex) é proposto para analisar evidências, cruzar informações e apontar padrões e possíveis inconsistências. Ambos estão em planejamento.
 
 ## Participação responsável
 
@@ -28,4 +28,4 @@ O compromisso com o contraditório, o direito de resposta, a correção de erros
 
 ## Licença
 
-Os arquivos comunitários deste repositório são disponibilizados nos termos da [Unlicense](LICENSE). Essa licença não altera as licenças dos demais repositórios. O Amnésia e o Córtex, por exemplo, adotam a GNU AGPLv3 para seu código.
+Os arquivos comunitários deste repositório são disponibilizados nos termos da [Unlicense](LICENSE). Essa licença não altera as licenças dos demais repositórios. A Amnésia e o Córtex, por exemplo, adotam a GNU AGPLv3 para seu código.
