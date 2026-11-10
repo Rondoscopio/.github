@@ -20,6 +20,8 @@ A [Constituição do Rondoscópio](https://github.com/Rondoscopio/constituicao) 
 
 A [Amnésia](https://github.com/Rondoscopio/amnesia) é proposto para coletar, catalogar e preservar registros de interesse público. O [Córtex](https://github.com/Rondoscopio/cortex) é proposto para analisar evidências, cruzar informações e apontar padrões e possíveis inconsistências. Ambos estão em planejamento.
 
+A [Conformidade](https://github.com/Rondoscopio/conformidade) reúne o checklist de boas práticas para avaliar e aprimorar os projetos da organização.
+
 ## Participação responsável
 
 Contribuições devem preservar a rastreabilidade das fontes e distinguir fatos, interpretações e hipóteses. Não publique dados pessoais desnecessários, denúncias sigilosas, credenciais ou informações que exponham fontes e terceiros. Indícios não equivalem a provas de ilícito.
