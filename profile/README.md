@@ -58,6 +58,10 @@ Será a interface pública para apresentar informações, investigações, indic
 
 Desenvolverá softwares para que colaboradores credenciados mantenham cópias independentes e verificáveis de conjuntos de dados autorizados, reduzindo o risco de perda do acervo diante de falhas, desastres, ataques e tentativas de apagamento. A rede de preservação ainda não está em operação.
 
+### [Conformidade](https://github.com/Rondoscopio/conformidade)
+
+Reúne um checklist de boas práticas para documentação, colaboração, segurança, governança, acessibilidade e sustentabilidade dos projetos. Os itens servem como referência para avaliações e melhorias, sem representar certificação.
+
 ## Como participar
 
 São bem-vindas contribuições em pesquisa de fontes, revisão documental, desenvolvimento de software, segurança, testes, acessibilidade, metodologia e correção de informações. Consulte as orientações de cada repositório e os [documentos comunitários](https://github.com/Rondoscopio/.github).
