@@ -34,13 +34,17 @@ Nossos fundamentos, garantias e procedimentos estão documentados na [Constitui�
 
 Reúne a Carta Fundadora, os princípios, objetivos, métodos de investigação, propostas de governança, garantias institucionais, direitos, políticas e referenciais. É a base documental dos demais projetos.
 
-### [Observador](https://github.com/Rondoscopio/observador)
+### [OSINT Rondônia](https://github.com/Rondoscopio/osint-rondonia)
 
-Pretende coletar, catalogar e conservar documentos, atos, publicações e outros registros de interesse público, mantendo informações sobre proveniência, histórico, integridade e condições de acesso.
+Catálogo público de fontes de dados, ferramentas e referências para pesquisa, jornalismo e fiscalização cidadã, com foco em Rondônia e acesso também a fontes brasileiras e internacionais.
 
-### [Auditor](https://github.com/Rondoscopio/auditor)
+### [Amnésia](https://github.com/Rondoscopio/amnesia)
 
-Pretende analisar e cruzar evidências, investigar relações e possíveis irregularidades, avaliar políticas públicas, examinar tecnicamente registros e acompanhar achados e providências, produzindo análises verificáveis. Indícios não serão apresentados como provas conclusivas.
+Sistema planejado de coleta e monitoramento multimodal de fontes públicas, incluindo textos, documentos, áudios, vídeos e dados estruturados. Pretende catalogar e preservar registros com informações sobre proveniência, histórico, integridade e condições de acesso.
+
+### [Córtex](https://github.com/Rondoscopio/cortex)
+
+Motor de inteligência e análise de dados em planejamento. Pretende cruzar registros e evidências, investigar relações, identificar padrões e possíveis irregularidades, avaliar políticas públicas e produzir indicadores e relatórios verificáveis. Indícios não serão apresentados como provas conclusivas.
 
 ### [Ouvidoria](https://github.com/Rondoscopio/ouvidoria)
 
